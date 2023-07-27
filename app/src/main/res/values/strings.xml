@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NSDfinal</string>
+    <string name="connect">Connect</string>
+    <string name="discover">Discover</string>
+    <string name="register">Register</string>
+    <string name="send">Send</string>
+    <string name="title_activity_nsd_chat">NsdChatActivity</string>
+
+</resources>
